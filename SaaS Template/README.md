@@ -2,7 +2,7 @@
 
 A modern, fully responsive SaaS landing page template built with React, TypeScript, and Tailwind CSS. Perfect for startups, SaaS products, and businesses looking to create a professional online presence.
 
-![SaaS Landing Page Template](https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop)
+![SaaS Landing Page Template](https://sassifyy.netlify.app/)
 
 ## ✨ Features
 
@@ -313,7 +313,7 @@ If you encounter any issues or have questions:
 
 1. Check the [Issues](https://github.com/devlance074/saas-template/issues) page
 2. Create a new issue with detailed information
-3. Contact: [info@devlance.org]
+3. Contact: [your-email@example.com]
 
 ## 🌟 Show Your Support
 
@@ -360,7 +360,7 @@ Your SaaS landing page template is ready to use! Here's your launch checklist:
 - [ ] Deploy to your hosting platform
 - [ ] Set up analytics tracking
 
-**Happy building! 🚀**
+**Happy coding! 🚀**
 
 ---
 
